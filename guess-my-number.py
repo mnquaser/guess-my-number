@@ -1,4 +1,3 @@
-#I tried to replicate the game from the introduction page from page 35 of the book
 import random
 
 
